@@ -1,0 +1,10 @@
+# ignore jpeg files 
+*.jpeg
+*.jpg
+
+# ignore .md files 
+*.md 
+
+# ignore .zip
+*.zip
+
