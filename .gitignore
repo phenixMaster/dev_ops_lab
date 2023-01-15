@@ -2,9 +2,13 @@
 *.jpeg
 *.jpg
 
+# remove directories 
+image/
+
 # ignore .md files 
 *.md 
 
 # ignore .zip
 *.zip
+
 
